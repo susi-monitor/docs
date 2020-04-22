@@ -1,0 +1,2 @@
+# docs
+SuSi Monitor documentation
