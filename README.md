@@ -1,2 +1,2 @@
 # docs
-SuSi Monitor documentation
+*SuSi Monitor documentation* - Work in progress
